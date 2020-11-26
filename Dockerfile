@@ -1,6 +1,5 @@
 # Copyright (c) 2020 PalPark developers. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0
-
 # Build the manager binary
 FROM golang:1.13 as builder
 
